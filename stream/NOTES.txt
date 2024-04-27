@@ -1,0 +1,10 @@
+
+Don't Edit these as they are you bus stops on the map 
+and parking markers added by Tnoxious https://github.com/Tnoxious 
+
+
+These map files add more Bus stops to:
+Grand Senora Desert
+Chumash
+Los Santos City
+
