@@ -1,4 +1,4 @@
-<img src="https://noxiousnexus.com/noxbusjobs_screen.jpg" alt="NOX_BUSJOBS" title="NOX_BUSJOBS">
+![noxbusjobs_screen](https://github.com/Tnoxious/noxmz-busjobs/assets/167952403/4e61e2de-2cbf-4d97-8af0-b95a97979640)
 
 
 Here you go, a new bus job well two jobs in one! 
