@@ -5,6 +5,15 @@ YouTube Preview: https://youtu.be/W4Q0ypVfCsU
 Here you go, a new bus job well two jobs in one! 
 You can be a Coach Driver or City Bus Driver living the bus driver dream. The script started with qb-busjob and ended up being a full remake and layout for my server. This version is a striped down copy of my server one (mine has XP rewards and ranking systems in the core, requiring custom dependencies), which would have been hard for others to set up like I have mine on my server, so this version is just a plain qb-core drag-and-drop nice and easy setup see guide below.
 
+Script Features: 
+* 2x the jobs in one script!
+* Able to use work clothes for each job (enable this in config, also add clothing codes in config)
+* Full control from config
+* Able to add own bus stop zones
+* Easy install
+* Random pays for each player
+  
+
 How to Install
 1. Go to server.cfg config and add " ensure nox-busjobs " below line " ensure [defaultmaps] "and save
 2. Delete qb-busjobs from [qb] folder it's no longer needed and may conflict
